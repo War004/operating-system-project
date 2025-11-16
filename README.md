@@ -74,3 +74,16 @@ This project includes a `Makefile` to simplify compilation. You will need `gcc` 
     # Use the PID from Terminal 1
     ./build/sender 12345
     ```
+---
+
+## Output
+
+<img width="393" height="297" alt="image" src="https://github.com/user-attachments/assets/0b351136-4faf-4c05-a22b-847252e060a3" />
+
+--
+
+<img width="932" height="490" alt="image" src="https://github.com/user-attachments/assets/c000e9d1-05e3-4365-88ab-932dd2bf957a" />
+
+--
+
+<img width="912" height="252" alt="image" src="https://github.com/user-attachments/assets/5d78c8ef-83ef-4aaf-8a4f-d3f5da69665f" />
